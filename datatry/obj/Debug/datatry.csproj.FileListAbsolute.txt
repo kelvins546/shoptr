@@ -1,0 +1,11 @@
+D:\kelvin files\source\repos\datatry\datatry\bin\Debug\datatry.exe.config
+D:\kelvin files\source\repos\datatry\datatry\bin\Debug\datatry.exe
+D:\kelvin files\source\repos\datatry\datatry\bin\Debug\datatry.pdb
+D:\kelvin files\source\repos\datatry\datatry\obj\Debug\datatry.csproj.AssemblyReference.cache
+D:\kelvin files\source\repos\datatry\datatry\obj\Debug\datatry.Form1.resources
+D:\kelvin files\source\repos\datatry\datatry\obj\Debug\datatry.Form2.resources
+D:\kelvin files\source\repos\datatry\datatry\obj\Debug\datatry.Properties.Resources.resources
+D:\kelvin files\source\repos\datatry\datatry\obj\Debug\datatry.csproj.GenerateResource.cache
+D:\kelvin files\source\repos\datatry\datatry\obj\Debug\datatry.csproj.CoreCompileInputs.cache
+D:\kelvin files\source\repos\datatry\datatry\obj\Debug\datatry.exe
+D:\kelvin files\source\repos\datatry\datatry\obj\Debug\datatry.pdb
